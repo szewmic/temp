@@ -4,13 +4,13 @@
         "name": "GeoPOZ Map Application",
         "appId": "GeoPOZ",
         "url": "https://vignette.wikia.nocookie.net/poznan/images/1/1c/Logotypzgikmgeopoz1.png/revision/latest?cb=20140810072937&path-prefix=pl",
-        "href": "kk"
+        "href": "http://148.53.130.107/GeoPOZ/GeoPoz.aspx"
     },
     {
-        "name": "ConsumerPortalmap",
-        "appId": "Consumerportal",
+        "name": "Full aspx app",
+        "appId": "FullApp",
         "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
-        "href": "kkk"
+        "href": "http://148.53.130.107/GeoPOZ/Full.aspx"
     }
   ]
 }
