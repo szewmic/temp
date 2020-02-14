@@ -7,19 +7,22 @@
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [
 			{
-				"name":"GeoPoz.aspx"
+				"name":"GeoPoz.aspx",
+				"id": "GeoPoz.aspx"
 			},
 			{
-				"name":"Full.aspx"
+				"name":"Full.aspx",
+				"id":
 			},
 			{
-				"name":"Map.aspx"
+				"name":"Map.aspx",
+				"id":
 			}
 		],
 		"gpms": [
 			{	
 				"name":"Mapa startowa 1",
-				"id":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
+				"value":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
 			}
 		]
     },
