@@ -7,16 +7,16 @@
         "href": "http://148.53.130.107/GeoPOZ/",
 		"layouts": [
 			{
-				"name":"GeoPoz.aspx",
-				"id": "GeoPoz.aspx"
+				"name":"GeoPoz Layout",
+				"value": "GeoPoz.aspx"
 			},
 			{
-				"name":"Full.aspx",
-				"id":""
+				"name":"Full layout",
+				"value":"Full.aspx"
 			},
 			{
-				"name":"Map.aspx",
-				"id":""
+				"name":"Only map layout",
+				"value":"Map.aspx"
 			}
 		],
 		"gpms": [
