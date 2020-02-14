@@ -15,14 +15,22 @@
 			{
 				"name":"Map.aspx"
 			}
+		],
+		"gpms": [
+			{	
+				"name":"Mapa startowa 1",
+				"id":"8569212c-7622-4716-8f2f-ecdeb73b8ca4"
+			}
 		]
     },
     {
         "name": "Consumer Portal",
         "appId": "Consumer",
         "url": "https://image.shutterstock.com/image-vector/abstract-hexagon-logo-design-260nw-607882415.jpg",
-        "href": "http://148.53.130.107/",
+        "href": "http://148.53.130.107/GeoPOZ",
 		"layouts": [
+		],
+		"gpms": [
 		]
     }
   ]
